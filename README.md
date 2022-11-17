@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-# Check this out: https://adityagirdhar.github.io/induction
+### Check this out: https://adityagirdhar.github.io/induction
 <!--
 **adityagirdhar/adityagirdhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
