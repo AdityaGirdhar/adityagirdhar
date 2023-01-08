@@ -1,5 +1,5 @@
 ### Hi there! 👋
-I'm Aditya Girdhar, a Computer Science & Engineering sophomore at IIIT, Delhi.
+I'm Aditya Girdhar, a Computer Science & Engineering sophomore at IIIT-Delhi.
 
 ---
 <h3 align="left">Languages and Tools:</h3>
