@@ -17,11 +17,11 @@ I'm Aditya Girdhar, a Computer Science & Engineering sophomore at [IIIT Delhi](h
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" alt="c" width="35" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="43"/> </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/1200px-Icons8_flat_linux.svg.png" alt="linux" width="40" height="40"/> </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-       <img src="https://bashlogo.com/img/symbol/png/full_colored_light.png" alt="bash" width="40" height="40"/> </a>
+       <img src="https://bashlogo.com/img/symbol/png/full_colored_light.png" alt="bash" width="37" height="40"/> </a>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
     <a href="https://processing.org/" target="_blank" rel="noreferrer">
