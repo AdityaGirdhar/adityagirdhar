@@ -24,6 +24,9 @@ I'm Aditya Girdhar, a Computer Science & Engineering sophomore at [IIIT Delhi](h
        <img src="https://bashlogo.com/img/symbol/png/full_colored_light.png" alt="bash" width="40" height="40"/> </a>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+    <a href="https://processing.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Processing_3_logo.png/768px-Processing_3_logo.png" alt="processing" width="42" height="42"/> </a>
+        
 </p>
 
 ## 
