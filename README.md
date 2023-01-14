@@ -12,10 +12,12 @@ I'm Aditya Girdhar, a Computer Science & Engineering sophomore at [IIIT Delhi](h
         <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="cplusplus" width="40" height="40"/> </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="java" width="40" height="40"/> </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" alt="c" width="35" height="40"/> </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="java" width="40" height="40"/> </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.paulligocki.com/wp-content/uploads/2022/03/MySQLLogo.png" alt="mysql" width="40" height="43"/> </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="43"/> </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
