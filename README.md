@@ -4,14 +4,14 @@ I'm Aditya Girdhar, a Computer Science & Engineering sophomore at [IIIT Delhi](h
 ## Toolbox
 
 <p align="left">
-    <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="javascript" width="40" height="40"/> </a>
+    <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="javascript" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" alt="django" width="40" height="40"/> </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-svg-vector.svg" alt="react" width="40" height="40" style="border radius: 100px"/> </a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+        <img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" alt="django" width="40" height="40"/> </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://www.paulligocki.com/wp-content/uploads/2022/03/MySQLLogo.png" alt="mysql" width="40" height="43"/> </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
