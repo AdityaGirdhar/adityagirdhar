@@ -3,38 +3,39 @@ I'm Aditya Girdhar, a Computer Science & Engineering sophomore at [IIIT Delhi](h
 
 ## Toolbox
 
-<p align="left">
-    <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-svg-vector.svg" alt="react" width="40" height="40" style="border radius: 100px"/> </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" alt="django" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.paulligocki.com/wp-content/uploads/2022/03/MySQLLogo.png" alt="mysql" width="40" height="43"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="cplusplus" width="40" height="40"/> </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="java" width="40" height="40"/> </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" alt="c" width="35" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="43"/> </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/1200px-Icons8_flat_linux.svg.png" alt="linux" width="40" height="40"/> </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-       <img src="https://bashlogo.com/img/symbol/png/full_colored_light.png" alt="bash" width="37" height="40"/> </a>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-    <a href="https://processing.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Processing_3_logo.png/768px-Processing_3_logo.png" alt="processing" width="42" height="42"/> </a>     
-</p>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795.svg?style=for-the-badge&logo=Chakra-UI&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![Numpy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white)
+![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A.svg?style=for-the-badge&logo=Blender&logoColor=white)
+![Latex](https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=LaTeX&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ## 
 ![](https://github-readme-stats.vercel.app/api?username=adityagirdhar&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=false&count_private=true)<br/>
