@@ -1,7 +1,7 @@
 ### Hi there! :wave:
-I'm Aditya Girdhar, a student and developer.
+I'm Aditya Girdhar, a computer science undergraduate at IIIT-Delhi and a software enthusiast.
 
-Currently doing a bachelor's in Computer Science & Engineering at [IIIT-Delhi](https://github.com/IIIT-Delhi).
+Always open to participating in hackathons!
 
 ## Languages and Tools
 
